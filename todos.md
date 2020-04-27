@@ -45,3 +45,7 @@ https://cn.vuejs.org/v2/cookbook/creating-custom-scroll-directives.html
 [element schema form](https://vueblocks.github.io/element-schema-form/guide/)
 
 [步骤引导](https://juejin.im/post/5e972664518825736b74a24d)
+
+[颜值即正义！这几个库颠覆你对数据交互的想象](https://juejin.im/post/5de53fa15188256ed6123a1d)
+
+[github的10 个开源项目](https://mp.weixin.qq.com/s/LyXsNzimqTERmH8Xf7Gdjg)
