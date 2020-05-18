@@ -49,3 +49,7 @@ https://cn.vuejs.org/v2/cookbook/creating-custom-scroll-directives.html
 [颜值即正义！这几个库颠覆你对数据交互的想象](https://juejin.im/post/5de53fa15188256ed6123a1d)
 
 [github的10 个开源项目](https://mp.weixin.qq.com/s/LyXsNzimqTERmH8Xf7Gdjg)
+
+[node最佳实践](https://github.com/goldbergyoni/nodebestpractices)
+
+[vue-3d-model](https://github.com/hujiulong/vue-3d-model)
