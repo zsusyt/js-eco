@@ -53,3 +53,15 @@ https://cn.vuejs.org/v2/cookbook/creating-custom-scroll-directives.html
 [node最佳实践](https://github.com/goldbergyoni/nodebestpractices)
 
 [vue-3d-model](https://github.com/hujiulong/vue-3d-model)
+
+[动效库集合](https://juejin.im/post/5cc089eae51d456e7d189f9d)
+
+[前端动效方案](https://juejin.im/post/5cc08848e51d456e7618a6ee)
+
+[canvas手写识别](https://ashan.org/archives/685)
+
+[js-spark-md5](https://github.com/satazor/js-spark-md5)
+
+[fe print](https://github.com/Haru1990/easy-print)
+
+[这15个Vue自定义指令，让你的项目开发爽到爆](https://zhuanlan.zhihu.com/p/108308393)
