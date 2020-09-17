@@ -67,3 +67,6 @@ https://cn.vuejs.org/v2/cookbook/creating-custom-scroll-directives.html
 [这15个Vue自定义指令，让你的项目开发爽到爆](https://zhuanlan.zhihu.com/p/108308393)
 
 [React.js 可视化编辑工具](https://juejin.im/post/6844903941327552520)
+
+[Prism](https://prismjs.com/docs/)
+[Vue 中使用 prismjs 代码高亮组件](https://www.lcgod.com/articles/130)
