@@ -70,3 +70,5 @@ https://cn.vuejs.org/v2/cookbook/creating-custom-scroll-directives.html
 
 [Prism](https://prismjs.com/docs/)
 [Vue 中使用 prismjs 代码高亮组件](https://www.lcgod.com/articles/130)
+[How to Use Prism in a Vue Project](https://yasminzy.com/vue/prism.html)
+[vue-prism-component](https://github.com/egoist/vue-prism-component)
